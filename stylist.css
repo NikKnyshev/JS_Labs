@@ -1,0 +1,28 @@
+.alert_red{
+    color:Red;
+}
+.alert_green{
+    color: Green;
+}
+
+body{
+	background-color:Honeydew;
+	text-align: center;
+}
+h1{
+	color:Goldenrod;
+}
+input{
+    background: Brown 15px 15px;
+    margin-bottom: 10px;
+}
+button{
+	background: Sienna;
+}
+h3{
+	color: MediumSpringGreen;
+}
+p{
+	margin: 0;
+}
+//иди отсюда чертила
